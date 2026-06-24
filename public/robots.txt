@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /terms
+Allow: /privacy
+Disallow: /chat
+Disallow: /sign-in
+Disallow: /sign-up
+Disallow: /onboarding
+Disallow: /api/
+
+Sitemap: https://curaai.vercel.app/sitemap.xml
